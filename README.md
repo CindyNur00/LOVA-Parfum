@@ -1,2 +1,16 @@
-# LOVA-Parfum
-LOVA adalah aplikasi parfum online yang praktis dan dirancang khusus buat bantu pengguna milih aroma sesuai vibe dan kepribadian. Desain aplikasinya juga clean dan elegan, jadi nyaman buat dipakai. Warna-warnanya dibuat soft tapi tetap berkelas.
+# tubes_parfum
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
