@@ -1,7 +1,7 @@
-LOVA Parfum – Aplikasi Mobile Flutter
+# LOVA Parfum – Aplikasi Mobile Flutter
 LOVA Parfum adalah aplikasi mobile berbasis Flutter yang terhubung dengan CodeIgniter 4 sebagai backend dan MongoDB sebagai database utama. Aplikasi ini dibuat untuk memberikan pengalaman digital dalam membeli parfum secara online dengan fitur-fitur lengkap seperti login, pencarian produk, checkout, dan notifikasi.
 
-Fitur Utama
+# Fitur Utama
 Log In – Autentikasi pengguna untuk mengakses aplikasi.
 
 Sign Up – Registrasi akun baru pengguna.
@@ -32,7 +32,7 @@ FAQ – Halaman pertanyaan yang sering diajukan pengguna.
 
 Button Logout – Keluar dari akun pengguna.
 
-Teknologi yang Digunakan
+# Teknologi yang Digunakan
 Frontend: Flutter
 
 Backend: CodeIgniter 4 (REST API)
@@ -47,7 +47,7 @@ Cross-Origin: Konfigurasi CORS di backend (untuk akses dari Flutter Web)
 
 QRIS: Simulasi/placeholder QR-code image
 
-Cara Menjalankan Aplikasi
+# Cara Menjalankan Aplikasi
 1. Clone Repository dari GitHub
 
 git clone https://github.com/username/lova-parfum-app.git
@@ -62,17 +62,17 @@ Jika menjalankan di Flutter Web, pastikan backend Anda memiliki CORS diaktifkan.
 Backend & Database
 Backend terletak di folder /api (atau repo terpisah jika perlu).
 
-Database menggunakan MongoDB dengan koleksi: users, parfum, checkout, notifications.
+# Database menggunakan MongoDB dengan koleksi: users, parfum, checkout, notifications.
 
-Penyimpanan Gambar
+# Penyimpanan Gambar
 Gambar produk disimpan sebagai path string dalam database MongoDB, dan file disimpan di dalam folder publik (/public/uploads).
 
-Testing
+# Testing
 Pastikan API berjalan di http://localhost:8080
 
 Gunakan Postman untuk menguji endpoint seperti /api/login, /api/parfum, /api/pembayaran, dll.
 
-Deployment
+# Deployment
 
 Untuk publikasi:
 
