@@ -50,7 +50,7 @@ QRIS: Simulasi/placeholder QR-code image
 # Cara Menjalankan Aplikasi
 1. Clone Repository dari GitHub
 
-git clone https://github.com/username/lova-parfum-app.git
+git clone https://github.com/CindyNur00/lova-parfum-app.git
 cd lova-parfum-app
 
 2. Jalankan Flutter
