@@ -80,6 +80,10 @@ Kompilasi Flutter menjadi APK: flutter build apk
 
 Gunakan hosting seperti Firebase Hosting jika menggunakan Flutter Web.
 
+# link storyboard
+
+https://youtube.com/shorts/hjQcasNLDaE?si=QrKqQDNbVXpSIoTZ
+
 # tubes_parfum
 
 A new Flutter project.
