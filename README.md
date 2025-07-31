@@ -80,7 +80,7 @@ Kompilasi Flutter menjadi APK: flutter build apk
 
 Gunakan hosting seperti Firebase Hosting jika menggunakan Flutter Web.
 
-# link storyboard
+# Link Storyboard
 
 https://youtube.com/shorts/hjQcasNLDaE?si=QrKqQDNbVXpSIoTZ
 
